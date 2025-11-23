@@ -9,4 +9,4 @@ This course is a fantastic introduction to artificial intelligence, breaking dow
 - [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone/)
 
 ## Videos
-- [LLM Reasoning](https://www.youtube.com/watch?v=ebnX5Ur1hBk),[pdf](https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf)
+- [LLM Reasoning](https://www.youtube.com/watch?v=ebnX5Ur1hBk), [pdf](https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf)
